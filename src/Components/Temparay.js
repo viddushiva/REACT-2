@@ -43,7 +43,7 @@ class Temporary extends Component {
       <div>
         <div className="form">
           <h1>EMPLOYEE FEEDBACK FORM</h1>
-          <label htmlFor="">Name : </label>
+          <label>Name : </label>
           <input
             type="text"
             name="name"

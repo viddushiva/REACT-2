@@ -4,7 +4,7 @@ class News extends Component {
   render() {
     return (
       <div className="div2">
-        Name: {this.props.name} | Department: {this.props.dept} | Rating:{" "}
+        Name: {this.props.name} | Department: {this.props.department} | Rating:
         {this.props.rating}
       </div>
     );
